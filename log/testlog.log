@@ -1,0 +1,101 @@
+2019-11-27 21:52:15,798 - IntelBanking -INFO - url opened
+2019-11-27 21:52:15,933 - IntelBanking -INFO - Username entered
+2019-11-27 21:52:16,024 - IntelBanking -INFO - password entered
+2019-11-27 21:52:17,992 - IntelBanking -INFO - Button clicked
+2019-11-27 21:56:52,592 - IntelBanking -INFO - url opened
+2019-11-27 21:56:52,823 - IntelBanking -INFO - Username entered
+2019-11-27 21:56:52,914 - IntelBanking -INFO - password entered
+2019-11-27 21:56:55,125 - IntelBanking -INFO - Button clicked
+2019-11-27 23:04:55,752 - IntelBanking -INFO - url opened
+2019-11-27 23:04:55,884 - IntelBanking -INFO - Username entered
+2019-11-27 23:04:55,978 - IntelBanking -INFO - password entered
+2019-11-27 23:04:57,247 - IntelBanking -INFO - Button clicked
+2019-12-01 13:57:50,825 - IntelBanking -INFO - url opened
+2019-12-01 13:57:51,006 - IntelBanking -INFO - Username entered
+2019-12-01 13:57:51,075 - IntelBanking -INFO - password entered
+2019-12-01 13:58:57,466 - IntelBanking -INFO - url opened
+2019-12-01 13:58:57,579 - IntelBanking -INFO - Username entered
+2019-12-01 13:58:57,646 - IntelBanking -INFO - password entered
+2019-12-01 13:59:00,043 - IntelBanking -INFO - Button clicked
+2019-12-01 14:00:36,921 - IntelBanking -INFO - url opened
+2019-12-01 14:00:37,034 - IntelBanking -INFO - Username entered
+2019-12-01 14:00:37,120 - IntelBanking -INFO - password entered
+2019-12-01 14:00:38,759 - IntelBanking -INFO - Button clicked
+2019-12-01 14:28:50,970 - IntelBanking -INFO - url opened
+2019-12-01 14:28:51,080 - IntelBanking -INFO - Username entered
+2019-12-01 14:28:51,148 - IntelBanking -INFO - password entered
+2019-12-01 14:28:52,774 - IntelBanking -INFO - Button clicked
+2019-12-01 15:03:48,393 - IntelBanking -INFO - url opened
+2019-12-01 15:03:48,512 - IntelBanking -INFO - Username entered
+2019-12-01 15:03:48,586 - IntelBanking -INFO - password entered
+2019-12-01 15:03:50,057 - IntelBanking -INFO - Button clicked
+2019-12-01 15:10:52,196 - IntelBanking -INFO - url opened
+2019-12-01 15:10:52,328 - IntelBanking -INFO - Username entered
+2019-12-01 15:10:52,427 - IntelBanking -INFO - password entered
+2019-12-01 15:10:53,713 - IntelBanking -INFO - Button clicked
+2019-12-01 15:12:00,046 - IntelBanking -INFO - url opened
+2019-12-01 15:12:00,278 - IntelBanking -INFO - Username entered
+2019-12-01 15:12:00,369 - IntelBanking -INFO - password entered
+2019-12-01 15:12:02,728 - IntelBanking -INFO - Button clicked
+2019-12-01 23:41:24,904 - IntelBanking -INFO - user name provided
+2019-12-01 23:41:25,703 - IntelBanking -INFO - password provided
+2019-12-01 23:41:30,292 - IntelBanking -INFO - Login passed
+2019-12-01 23:41:52,121 - IntelBanking -INFO - user name provided
+2019-12-01 23:41:52,243 - IntelBanking -INFO - password provided
+2019-12-01 23:43:05,794 - IntelBanking -INFO - user name provided
+2019-12-01 23:43:06,344 - IntelBanking -INFO - password provided
+2019-12-01 23:43:11,635 - IntelBanking -INFO - Login passed
+2019-12-01 23:44:19,520 - IntelBanking -INFO - user name provided
+2019-12-01 23:44:19,618 - IntelBanking -INFO - password provided
+2019-12-01 23:44:26,209 - IntelBanking -INFO - Login passed
+2019-12-01 23:46:58,044 - IntelBanking -INFO - user name provided
+2019-12-01 23:46:58,151 - IntelBanking -INFO - password provided
+2019-12-01 23:47:05,529 - IntelBanking -INFO - Login passed
+2019-12-01 23:49:18,255 - IntelBanking -INFO - user name provided
+2019-12-01 23:49:18,467 - IntelBanking -INFO - password provided
+2019-12-01 23:49:26,272 - IntelBanking -INFO - Login passed
+2019-12-01 23:49:31,867 - IntelBanking -INFO - user name provided
+2019-12-01 23:49:31,987 - IntelBanking -INFO - password provided
+2019-12-01 23:49:39,699 - IntelBanking -INFO - user name provided
+2019-12-01 23:49:39,782 - IntelBanking -INFO - password provided
+2019-12-01 23:49:47,287 - IntelBanking -INFO - user name provided
+2019-12-01 23:49:47,424 - IntelBanking -INFO - password provided
+2019-12-01 23:49:54,416 - IntelBanking -INFO - user name provided
+2019-12-01 23:49:54,543 - IntelBanking -INFO - password provided
+2019-12-01 23:51:03,370 - IntelBanking -INFO - user name provided
+2019-12-01 23:51:03,832 - IntelBanking -INFO - password provided
+2019-12-01 23:51:10,736 - IntelBanking -INFO - Login passed
+2019-12-01 23:51:47,481 - IntelBanking -INFO - user name provided
+2019-12-01 23:51:47,835 - IntelBanking -INFO - password provided
+2019-12-01 23:51:54,366 - IntelBanking -INFO - Login passed
+2019-12-01 23:52:00,558 - IntelBanking -INFO - user name provided
+2019-12-01 23:52:00,653 - IntelBanking -INFO - password provided
+2019-12-01 23:52:09,598 - IntelBanking -INFO - user name provided
+2019-12-01 23:52:09,678 - IntelBanking -INFO - password provided
+2019-12-01 23:52:16,627 - IntelBanking -INFO - user name provided
+2019-12-01 23:52:16,766 - IntelBanking -INFO - password provided
+2019-12-01 23:52:23,859 - IntelBanking -INFO - user name provided
+2019-12-01 23:52:23,996 - IntelBanking -INFO - password provided
+2019-12-01 23:53:48,907 - IntelBanking -INFO - user name provided
+2019-12-01 23:53:49,005 - IntelBanking -INFO - password provided
+2019-12-01 23:53:56,630 - IntelBanking -INFO - Login passed
+2019-12-01 23:54:02,587 - IntelBanking -INFO - user name provided
+2019-12-01 23:54:02,734 - IntelBanking -INFO - password provided
+2019-12-01 23:54:10,421 - IntelBanking -INFO - user name provided
+2019-12-01 23:54:10,499 - IntelBanking -INFO - password provided
+2019-12-01 23:54:17,669 - IntelBanking -INFO - user name provided
+2019-12-01 23:54:17,803 - IntelBanking -INFO - password provided
+2019-12-01 23:54:25,768 - IntelBanking -INFO - user name provided
+2019-12-01 23:54:25,892 - IntelBanking -INFO - password provided
+2019-12-01 23:57:36,628 - IntelBanking -INFO - user name provided
+2019-12-01 23:57:36,719 - IntelBanking -INFO - password provided
+2019-12-01 23:57:43,596 - IntelBanking -INFO - Login passed
+2019-12-01 23:57:49,213 - IntelBanking -INFO - user name provided
+2019-12-01 23:57:49,337 - IntelBanking -INFO - password provided
+2019-12-01 23:57:56,918 - IntelBanking -INFO - user name provided
+2019-12-01 23:57:57,000 - IntelBanking -INFO - password provided
+2019-12-01 23:58:04,526 - IntelBanking -INFO - user name provided
+2019-12-01 23:58:04,652 - IntelBanking -INFO - password provided
+2019-12-01 23:58:11,177 - IntelBanking -INFO - Login passed
+2019-12-01 23:58:18,315 - IntelBanking -INFO - user name provided
+2019-12-01 23:58:18,405 - IntelBanking -INFO - password provided
