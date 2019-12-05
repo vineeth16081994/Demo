@@ -61,5 +61,6 @@ public void captureScreen(WebDriver driver,String tname) throws IOException
 	File target = new File(System.getProperty("user.dir") + "/Screenshot/" + tname + ".png");
 	FileUtils.copyFile(source, target);
 	System.out.println("Screenshot taken");
+	System.out.println("Screenshot taken");
 }
 }
